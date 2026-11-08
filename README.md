@@ -130,7 +130,7 @@ python src/main.py
 Aspiring Software Engineer | Python Developer | Problem Solver
 
 - GitHub: [nirinda1836](https://github.com/nirinda1836)
-- LinkedIn: [Add your LinkedIn Profile]
+- LinkedIn: [https://www.linkedin.com/in/komara-nirinda-8412003b5]
 
 ---
 
